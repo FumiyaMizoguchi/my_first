@@ -1,2 +1,7 @@
 2nd pullreq
+<<<<<<< HEAD
 send you
+=======
+change content
+
+>>>>>>> origin
